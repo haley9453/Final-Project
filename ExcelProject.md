@@ -9,7 +9,7 @@
 > In our presentation we discuss the background of our case, introduce the three questions that work to answer our presentation topic, and conclude by tying all of that information together.
 
 ## Project Requirements
-**This section contains the requirements of the project.**
+**This section lists the requirements given for this project.**
 > Use Excel’s PivotTable to help you answer the following questions:
 
 > Where are the average purchases higher? The answer might tell managers where to focus marketing and sales resources or pitch different messages to different regions.
