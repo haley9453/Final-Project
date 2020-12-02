@@ -12,8 +12,8 @@
 
 | Coursework Name | Link |
 | ------ | ------ |
-| Case Study Presentation | [CaseStudy.md][CaseStudy.md] |
-| Excel Project | [plugins/github/README.md][EP] |
+| Case Study Presentation | [CaseStudy.md][CSP] |
+| Excel Project | [ExcelProject.md][EP] |
 | MS Access Project | [plugins/googledrive/README.md][MSAP] |
 
 #### IT 1000 Coursework
@@ -50,6 +50,6 @@ Fax- 573-341-4165*
 
 [//]: ()
 
-   [CaseStudy.md]: <CaseStudy.md>
-   [EP]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
+   [CSP]: <CaseStudy.md>
+   [EP]: <ExcelProject.md>
    [MSAP]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
