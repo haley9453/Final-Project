@@ -14,7 +14,7 @@
 | ------ | ------ |
 | Case Study Presentation | [CaseStudy.md][CSP] |
 | Excel Project | [ExcelProject.md][EP] |
-| MS Access Project | [plugins/googledrive/README.md][MSAP] |
+| MS Access Project | [MSAccess.md][MSAP] |
 
 #### IT 1000 Coursework
 **This section contains a block of code.**  
@@ -55,4 +55,4 @@ main ()*
 
    [CSP]: <CaseStudy.md>
    [EP]: <ExcelProject.md>
-   [MSAP]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
+   [MSAP]: <MSAccess.md>
