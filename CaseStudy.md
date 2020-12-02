@@ -14,10 +14,10 @@
 
 ## Contact Information
 **This section contains my contact information.**
-> Preferred- hdrc8n@umsystem.edu
+* Preferred- hdrc8n@umsystem.edu
 
-> Preferred Time- 8am-5:30pm 
+* Preferred Time- 8am-5:30pm 
 
-> Phone- 800-522-0938
+* Phone- 800-522-0938
 
-> Fax- 573-341-4165
+* Fax- 573-341-4165
