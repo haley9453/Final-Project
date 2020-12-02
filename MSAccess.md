@@ -12,9 +12,11 @@
 ## Project Requirements
 **This section lists the requirements given for this project.**
 > The submission must consist of two documents:
-#1, a word document to address the following questions:
+
+> #1, a word document to address the following questions:
 Write a brief description of how the database could be enhanced to improve management of the business further. What tables or fields should be added? What additional reports would be useful? 
-#2, MS-Access file that meets the following requirements:
+
+> #2, MS-Access file that meets the following requirements:
 Prepare a report that identifies the five most expensive bicycles. The report should list the bicycles in descending order from most expensive to least expensive, the quantity on hand for each, and the markup percentage for each.
 Prepare a report that lists each supplier, its products, the quantities on hand, and associated reorder levels. The report should be sorted alphabetically by supplier. Within each supplier category, the products should be sorted alphabetically.
 Prepare a report listing only the bicycles that are low in stock and need to be reordered. The report should provide supplier information for the identified items.
