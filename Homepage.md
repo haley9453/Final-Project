@@ -40,10 +40,10 @@ exit()
 main ()*
 
 ## Website I used for course help
-[W3 Schools](https://www.w3schools.com)
-[Plural Sight](https://www.pluralsight.com/pricing/free-trial)
-[Crash Course](https://www.youtube.com/user/crashcourse)
-[GitHub](https://github.com)
+[W3 Schools](https://www.w3schools.com)  
+[Plural Sight](https://www.pluralsight.com/pricing/free-trial)  
+[Crash Course](https://www.youtube.com/user/crashcourse)  
+[GitHub](https://github.com)  
 [Code Academy](https://www.codecademy.com/subscriptions/proAnnualV4a_7trial/checkout?redirect_url=%2Fpro%2Fmembership)
 
 
