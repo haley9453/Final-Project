@@ -17,29 +17,28 @@
 | MS Access Project | [plugins/googledrive/README.md][MSAP] |
 
 #### IT 1000 Coursework
-**This section contains a block of code.**
-def main():
-    def greet(name,time):
-      print(f'Good {time_of_day} {name}, hope you are well!')
-    name = input ("Enter your name: ")
-    time = int(input("Enter the time of day (as military time): "))
-    if time >= 2000:
-    time_of_day = "Night"
-    elif time >= 1800:
-        time_of_day = "Evening"
-    elif time >= 1200:
-        time_of_day = "Afternoon"
-    elif time >= 0:
-        time_of_day = "Morning"
-    else:
-        time_of_day = "Day"
-    greet (name, time_of_day)
-    #the .lower() attached on the end makes sure Yes/YES/YeS all return as yes
-    restart=input("Do you want to start again?\n").lower()
-    if restart == "yes":
-        main()
-    else:
-        exit()
+**This section contains a block of code.**  
+def main():  
+def greet(name,time):  
+print(f'Good {time_of_day} {name}, hope you are well!')  
+name = input ("Enter your name: "). 
+time = int(input("Enter the time of day (as military time): "))  
+if time >= 2000:  
+time_of_day = "Night"  
+elif time >= 1800:  
+time_of_day = "Evening"  
+elif time >= 1200:  
+time_of_day = "Afternoon"  
+elif time >= 0:  
+time_of_day = "Morning"  
+else:  
+time_of_day = "Day"  
+greet (name, time_of_day)  
+restart=input("Do you want to start again?\n").lower()  
+if restart == "yes":  
+main()  
+else:  
+exit()  
 main ()
 
 #### Contact Information
