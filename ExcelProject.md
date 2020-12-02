@@ -10,15 +10,15 @@
 
 ## Project Requirements
 **This section lists the requirements given for this project.**
-> Use Excel’s PivotTable to help you answer the following questions:
+* Use Excel’s PivotTable to help you answer the following questions:
 
-> Where are the average purchases higher? The answer might tell managers where to focus marketing and sales resources or pitch different messages to different regions.
+* Where are the average purchases higher? The answer might tell managers where to focus marketing and sales resources or pitch different messages to different regions.
 
-> What form of payment is the most common? The answer could be used to emphasize in advertising the most preferred means of payment.
+* What form of payment is the most common? The answer could be used to emphasize in advertising the most preferred means of payment.
 
-> Are there any times of day when purchases are most common? Do people buy products while at work (likely during the day) or at home (likely in the evening)?
+* Are there any times of day when purchases are most common? Do people buy products while at work (likely during the day) or at home (likely in the evening)?
 
-> What’s the relationship among region, type of product purchased, and average sales price?
+* What’s the relationship among region, type of product purchased, and average sales price?
 
 ## Presentation
 **[Click Here](https://docs.google.com/document/d/1BCHy75qv7b6G1Foz87mV0TEu-_qsvSLL09-4Si7tI0U/edit) to view the presentation.**
