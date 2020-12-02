@@ -12,7 +12,7 @@
 
 | Coursework Name | Link |
 | ------ | ------ |
-| Case Study Presentation | [plugins/dropbox/README.md][CSP] |
+| Case Study Presentation | [https://github.com/haley9453/Final-Project/blob/main/Case%20Study%20Page][CSP] |
 | Excel Project | [plugins/github/README.md][EP] |
 | MS Access Project | [plugins/googledrive/README.md][MSAP] |
 
@@ -50,6 +50,6 @@ Fax- 573-341-4165*
 
 [//]: ()
 
-   [CSP]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
+   [CSP]: <https://github.com/haley9453/Final-Project/blob/main/Case%20Study%20Page>
    [EP]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
    [MSAP]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
