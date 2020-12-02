@@ -21,6 +21,12 @@
 Prepare a report that lists each supplier, its products, the quantities on hand, and associated reorder levels. The report should be sorted alphabetically by supplier. Within each supplier category, the products should be sorted alphabetically.
 Prepare a report listing only the bicycles that are low in stock and need to be reordered. The report should provide supplier information for the identified items.*
 
+## Project
+**This section contains the link to the business report and gives a picture of the MS Access file.**
+> [Click Here](https://docs.google.com/document/d/1BCHy75qv7b6G1Foz87mV0TEu-_qsvSLL09-4Si7tI0U/edit) to view the presentation.
+
+> ![MS Access File](AccessData.jpg)
+
 ## Contact Information
 **This section contains my contact information.**
 > Preferred- hdrc8n@umsystem.edu
