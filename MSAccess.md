@@ -2,12 +2,12 @@
 **Below you can find a project overview, project requirements, our business report and our MS Access file.**
 
 ## Project Overview
-**This section contains an overview to of the project.**
-> Our group (consisting of three students) worked  to solve real business problems using MS-Access.
+**This section contains an overview to of the project.**  
+* Our group (consisting of three students) worked  to solve real business problems using MS-Access.
 
-> In this exercise, we designed reports for managing inventory for a small business called "Sylvester’s Bike Shop".
+* In this exercise, we designed reports for managing inventory for a small business called "Sylvester’s Bike Shop".
 
-> By using the data provided, we built a simple relational database to manage information about Sylvester’s suppliers and products. 
+* By using the data provided, we built a simple relational database to manage information about Sylvester’s suppliers and products. 
 
 ## Project Requirements
 **This section lists the requirements given for this project.**
