@@ -1,14 +1,14 @@
 # Case Study Presentation
-**Below you can find a project overview and our presentation.**
-## Project Overview
-**This section contains an overview to of the project.**
+**Below you can find a presentation overview and our presentation.**
+## Presentation Overview
+**This section contains an overview of the project.**
 * Cases were assigned to groups, with each group consisting of three students.
 
 * Topics were assigned by the instructor at the beginning of the semester.
 
 * Each group had to give an 8- minute presentation and a 2-minute Q&A.
 
-## Project 
+## Presentation 
 **[Click Here](https://prezi.com/view/i93pMRXtseJokX9t2Cn5/) to view the presentation.**  
 <img src="https://prezi.com/view/i93pMRXtseJokX9t2Cn5/"/>
 
