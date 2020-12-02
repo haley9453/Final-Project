@@ -4,7 +4,7 @@
   - Thank you for your time and interest!
   
 #### IST 1750
-**This section contains an overview to of the class.**
+**This section contains an overview of the class.**
 > IST 1750 Course Description: This course familiarizes the students with the fundamental concepts and principles of management information systems. Topics covered include the strategic role of IT, decision support systems, database and data warehouse, enterprise applications, electronic commerce, and social and ethical issues related to information systems. (Taken from IST 1750 Course Syllabus)
 
 #### IST 1750 Coursework
