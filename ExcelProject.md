@@ -1,5 +1,5 @@
 # Excel Project
-**Below you can find a project overview, our presentation and a list of citations.**
+**Below you can find a project overview, project requirements and our project.**
 ## Project Overview
 **This section contains an overview to of the project.**
 * Our group (consisting of three students) worked  to solve real business problems using MS-Excel. We used the provided data file for Online Management Training Inc. to make Excel Pivot Tables that answered real business problems.
