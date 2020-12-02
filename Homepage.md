@@ -18,7 +18,7 @@
 
 #### IT 1000 Coursework
 **This section contains a block of code.**  
-def main():  
+*def main():  
 def greet(name,time):  
 print(f'Good {time_of_day} {name}, hope you are well!')  
 name = input ("Enter your name: "). 
@@ -39,17 +39,17 @@ if restart == "yes":
 main()  
 else:  
 exit()  
-main ()
+main ()*
 
 ## Contact Information
 **This section contains my contact information.**
-> *Preferred- hdrc8n@umsystem.edu
+> Preferred- hdrc8n@umsystem.edu
 
 > Preferred Time- 8am-5:30pm 
 
 > Phone- 800-522-0938
 
-> Fax- 573-341-4165*
+> Fax- 573-341-4165
 
 [//]: ()
 
