@@ -50,6 +50,6 @@ Fax- 573-341-4165*
 
 [//]: ()
 
-   [CSP]: <CaseStudy.md>
+   [CaseStudy.md]: <CaseStudy.md>
    [EP]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
    [MSAP]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
