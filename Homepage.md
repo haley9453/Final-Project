@@ -1,9 +1,7 @@
-# Homepage
-  - This website showcases a variety of my IST 1750 classwork at Missouri University of Science and Technology.
-  - Please feel free to browse my work through the pages above and contact me with any questions that you may have!
-  - Thank you for your time and interest!
+# Haley Roberson
+This website showcases a variety of my IST 1750 classwork at Missouri University of Science and Technology and includes coding from classes at Mizzou. Please feel free to browse my work through the pages linked below and contact me with any questions that you may have. Thank you for your time and interest!
   
-#### IST 1750
+#### IST 1750 Class Overview
 **This section contains an overview of the class.**
 > IST 1750 Course Description: This course familiarizes the students with the fundamental concepts and principles of management information systems. Topics covered include the strategic role of IT, decision support systems, database and data warehouse, enterprise applications, electronic commerce, and social and ethical issues related to information systems. (Taken from IST 1750 Course Syllabus)
 
@@ -17,7 +15,7 @@
 | MS Access Project | [MSAccess.md][MSAP] |
 
 #### IT 1000 Coursework
-**This section contains a block of code.**  
+**This section contains code I created using what I learned in IT 1000.**  
 *def main():  
 def greet(name,time):  
 print(f'Good {time_of_day} {name}, hope you are well!')  
