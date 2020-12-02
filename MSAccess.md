@@ -13,7 +13,7 @@
 **This section lists the requirements given for this project.**
 > The submission must consist of two documents:
 
-1. a word document to address the following questions:
+1. A word document to address the following questions:
 *Write a brief description of how the database could be enhanced to improve management of the business further. What tables or fields should be added? What additional reports would be useful?*
 
 2. MS-Access file that meets the following requirements:
