@@ -2,7 +2,7 @@
 **Below you can find a project overview, project requirements, our business report and our MS Access file.**
 
 ## Project Overview
-**This section contains an overview to of the project.**  
+**This section contains an overview of the project.**  
 * Our group (consisting of three students) worked  to solve real business problems using MS-Access.
 
 * In this exercise, we designed reports for managing inventory for a small business called "Sylvester’s Bike Shop".
@@ -28,8 +28,6 @@ Prepare a report listing only the bicycles that are low in stock and need to be 
 > Below is the MS AccessFile
 > ![MS Access File](AccessData.jpg)
 
-## Contact Information
-**This section contains my contact information.**
 ## Contact Information
 **This section contains my contact information.**
 * Preferred- hdrc8n@umsystem.edu
