@@ -27,4 +27,6 @@
 
 * Phone- 800-522-0938
 
-* Fax- 573-341-4165
+* Fax- 573-341-4165  
+
+> *[Click here to go back to the home page.](Homepage.md)*
