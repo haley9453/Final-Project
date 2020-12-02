@@ -9,7 +9,8 @@
 * Each group had to give an 8- minute presentation and a 2-minute Q&A.
 
 ## Project 
-**[Click Here](https://prezi.com/view/i93pMRXtseJokX9t2Cn5/) to view the presentation.**
+**[Click Here](https://prezi.com/view/i93pMRXtseJokX9t2Cn5/) to view the presentation.**  
+<img src="https://prezi.com/view/i93pMRXtseJokX9t2Cn5/"/>
 
 ## Contact Information
 **This section contains my contact information.**
