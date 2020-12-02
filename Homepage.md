@@ -20,7 +20,7 @@
 **This section contains a block of code.**
 def main():
     def greet(name,time):
-        print(f'Good {time_of_day} {name}, hope you are well!')
+      print(f'Good {time_of_day} {name}, hope you are well!')
     name = input ("Enter your name: ")
     time = int(input("Enter the time of day (as military time): "))
     if time >= 2000:
