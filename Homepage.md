@@ -12,7 +12,7 @@
 
 | Coursework Name | Link |
 | ------ | ------ |
-| Case Study Presentation | [https://github.com/haley9453/Final-Project/blob/main/Case%20Study%20Page][CSP] |
+| Case Study Presentation | [https://github.com/haley9453/Final-Project/blob/main/][CSP] |
 | Excel Project | [plugins/github/README.md][EP] |
 | MS Access Project | [plugins/googledrive/README.md][MSAP] |
 
